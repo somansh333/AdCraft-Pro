@@ -1,4 +1,4 @@
-6 AdCraft Pro
+AdCraft Pro
 
 **A two-model AI pipeline that generates production-ready ad creatives — from creative brief to final image — in ~20 seconds.**
 
