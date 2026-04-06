@@ -1,6 +1,6 @@
 AdCraft Pro
 
-**A two-model AI pipeline that generates production-ready ad creatives — from creative brief to final image — in ~20 seconds.**
+**A three-model AI pipeline that generates production-ready ad creatives — from creative brief to final image — in ~20 seconds.**
 
 Fine-tuned gpt-4.1-mini writes the creative brief -> GPT-4o produces copy + HTML/CSS layout -> gpt-image-1 generates the product image -> Playwright renders typography -> production-ready ad.
 
